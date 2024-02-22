@@ -1,0 +1,8 @@
+Definicion de flechas de los diagramas (relaciones, que es herencia o que significa)
+Calidad de software
+Cuando una metodologia es agil 
+El manifiesto agil
+Diferencias y similitudes entre XP y SCRUM
+Metricas y ejemplos de metricas
+Todos los diagramas UML (interactivo, de comportamiento y estructural), foco en => Diagramas de colaboracion
+Relacion entre diagrama de secuencia y de colaboración
